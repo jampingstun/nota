@@ -22,7 +22,7 @@
                 .menu li{
                 }
                 .submenu li{
-                    margin-left: 29px;;
+                    margin-left: 8px;;
                 }
                 .submenu li:last-child{
                     padding-bottom: 3px;
@@ -33,7 +33,7 @@
                     padding-top: 3px;
                 }
                 .submenu li:hover{
-                    margin-left: 34px;
+                    margin-left: 20px;
                     
                 }
                 .menuhead{
